@@ -4,7 +4,7 @@ Welcome to my personal github site!
 
 I'm a PhD researcher at the [Hydro-Climate Extremes Lab](https://www.ugent.be/bw/environment/en/research/h-cel), where I study the use of stochastic models to assess the impact of climate change on hydrologic extremes.
 
-![Image](images/DSC_0709GoedalsArmenWEGcropped.jpg)
+![Image](DSC_0709GoedalsArmenWEGcropped.jpg)
 
 ## Papers
 
