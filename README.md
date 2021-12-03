@@ -8,7 +8,18 @@ I'm a PhD researcher at the [Hydro-Climate Extremes Lab](https://www.ugent.be/bw
 
 ## Papers
 
-[Exploring the Effect of Occurrence-Bias-Adjustment Assumptions on Hydrological Impact Modeling](https://doi.org/10.3390/w13111573)
+- [Exploring the Effect of Occurrence-Bias-Adjustment Assumptions on Hydrological Impact Modeling](https://doi.org/10.3390/w13111573)
+- [Impact of bias nonstationarity on the performance of uni- and multivariate bias-adjusting methods](https://hess.copernicus.org/preprints/hess-2020-639/) *(Preprint)*
+
+## Blog posts
+
+I occasionaly write blog posts (in Dutch). If interested, you can find some here:
+- [Nobelprijs voor klimaatwetenschapper](https://www.noodweer.be/nobelprijs-voor-klimaatwetenschappers-25102021/)
+- [Wat zegt dit noodweer over de toekomst? (En drie andere vragnen](https://www.oneworld.nl/lezen/klimaat/wat-zegt-dit-noodweer-over-de-toekomst-en-drie-andere-vragen/)
+- [Noodweer in de toekomst: van klimaatmodel tot impact](https://www.noodweer.be/noodweer-in-de-toekomst-van-klimaatmodel-tot-impact/)
+- [Weerman met een rekenmachine?](https://www.eoswetenschap.eu/natuur-milieu/weerman-met-een-rekenmachine)
+
+Older blog posts can be found on my LinkedIn account.
 
 ## Contact & links
 
