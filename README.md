@@ -14,6 +14,7 @@ I'm a PhD researcher at the [Hydro-Climate Extremes Lab](https://www.ugent.be/bw
 ## Blog posts
 
 I occasionaly write blog posts (in Dutch). If interested, you can find some here:
+- [Extreme regen, geen eenvoudig verhaal](https://www.noodweer.be/extreme-regen-geen-eenvoudig-verhaal-14022022/)
 - [Nobelprijs voor klimaatwetenschapper](https://www.noodweer.be/nobelprijs-voor-klimaatwetenschappers-25102021/)
 - [Wat zegt dit noodweer over de toekomst? (En drie andere vragnen](https://www.oneworld.nl/lezen/klimaat/wat-zegt-dit-noodweer-over-de-toekomst-en-drie-andere-vragen/)
 - [Noodweer in de toekomst: van klimaatmodel tot impact](https://www.noodweer.be/noodweer-in-de-toekomst-van-klimaatmodel-tot-impact/)
