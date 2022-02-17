@@ -24,8 +24,14 @@ Older blog posts can be found on my LinkedIn account.
 
 ## Contact & links
 
+Personal:
 - [Mail](jorn.vandevelde@ugent.be)
 - [Google Scholar](https://scholar.google.com/citations?user=rH0j4nYAAAAJ&hl=nl)
 - [Twitter](https://twitter.com/JornVelde)
 - [Researchgate](https://www.researchgate.net/profile/Jorn-Van-De-Velde)
 - [LinkedIn](https://www.linkedin.com/in/jorn-van-de-velde-b97057146/)
+
+Lab:
+- [Website](https://www.ugent.be/bw/environment/en/research/h-cel)
+- [Twitter](https://twitter.com/HCEL_Ghent)
+- [Github](https://github.com/h-cel)
