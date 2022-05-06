@@ -9,7 +9,7 @@ I'm a PhD researcher at the [Hydro-Climate Extremes Lab](https://www.ugent.be/bw
 ## Papers
 
 - [Exploring the Effect of Occurrence-Bias-Adjustment Assumptions on Hydrological Impact Modeling](https://doi.org/10.3390/w13111573)
-- [Impact of bias nonstationarity on the performance of uni- and multivariate bias-adjusting methods](https://hess.copernicus.org/preprints/hess-2020-639/) *(Preprint)*
+- [Impact of bias nonstationarity on the performance of uni- and multivariate bias-adjusting methods: a case study on data from Uccle, Belgium](https://hess.copernicus.org/articles/26/2319/2022/)
 
 ## Blog posts
 
