@@ -15,7 +15,8 @@ I finished a PhD at the [Hydro-Climate Extremes Lab](https://www.ugent.be/bw/env
 
 ## Blog posts
 
-I occasionaly write blog posts (in Dutch). If interested, you can find some here:
+I occasionaly write blog posts (mostly in Dutch). If interested, you can find some here:
+- [Wat waterbeheer moet onthouden van de dambreuk in Oekraïne] (https://www.linkedin.com/pulse/wat-waterbeheer-moet-onthouden-van-dambreuk-oekra%2525C3%2525AFne-van-de-velde%3FtrackingId=sgihu8T0Q2CwKH11mPLRvQ%253D%253D/?trackingId=sgihu8T0Q2CwKH11mPLRvQ%3D%3D)
 - [Klimaatmodellen: veel zeggen met weinig gegevens](https://www.noodweer.be/klimaatmodellen-veel-zeggen-met-weinig-gegevens-14012023/)
 - [Extreme regen, geen eenvoudig verhaal](https://www.noodweer.be/extreme-regen-geen-eenvoudig-verhaal-14022022/)
 - [Nobelprijs voor klimaatwetenschapper](https://www.noodweer.be/nobelprijs-voor-klimaatwetenschappers-25102021/)
@@ -33,3 +34,4 @@ Personal:
 - [Twitter](https://twitter.com/JornVelde)
 - [Researchgate](https://www.researchgate.net/profile/Jorn-Van-De-Velde)
 - [LinkedIn](https://www.linkedin.com/in/jorn-van-de-velde-b97057146/)
+- <a rel="me" href="https://mastodon.energy/@jornvdv">Mastodon</a>
