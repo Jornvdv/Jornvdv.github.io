@@ -16,6 +16,8 @@ I finished a PhD at the [Hydro-Climate Extremes Lab](https://www.ugent.be/bw/env
 ## Blog posts
 
 I occasionaly write blog posts (mostly in Dutch). If interested, you can find some here:
+- [Heet onder de voeten: natuurbranden in België](https://www.linkedin.com/pulse/heet-onder-de-voeten-natuurbranden-belgi%2525C3%2525AB-jorn-van-de-velde-x6tpe/)
+- [Klimaatdata: voorbij de black box - deel 1](https://www.linkedin.com/pulse/klimaatdata-voorbij-de-black-box-deel-1-jorn-van-de-velde/), [Deel 2](https://www.linkedin.com/pulse/klimaatdata-voorbij-de-black-box-deel-2-jorn-van-de-velde/), [Deel 3](https://www.linkedin.com/pulse/klimaatdata-voorbij-de-black-box-deel-3-jorn-van-de-velde-vwkge/)
 - [Bereikt zeestroming in Atlantische Oceaan een kantelpunt?](https://www.noodweer.be/bereikt-temperatuur-in-atlantische-oceaan-een-kantelpunt-300723/)
 - [Wat waterbeheer moet onthouden van de dambreuk in Oekraïne](https://www.linkedin.com/pulse/wat-waterbeheer-moet-onthouden-van-dambreuk-oekra%2525C3%2525AFne-van-de-velde%3FtrackingId=sgihu8T0Q2CwKH11mPLRvQ%253D%253D/?trackingId=sgihu8T0Q2CwKH11mPLRvQ%3D%3D)
 - [Klimaatmodellen: veel zeggen met weinig gegevens](https://www.noodweer.be/klimaatmodellen-veel-zeggen-met-weinig-gegevens-14012023/)
